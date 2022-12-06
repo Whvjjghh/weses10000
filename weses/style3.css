@@ -1,0 +1,10 @@
+.login input[type="button"]  {
+    width: 150px;
+    border: 2px solid #2ecc71;
+    cursor:pointer;
+}
+
+
+.login input[type="submit"]:hover {
+    background-color: #2ecc71;
+    transition: 0.5s;
